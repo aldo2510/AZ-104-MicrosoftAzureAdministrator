@@ -4,7 +4,7 @@ lab:
     module: 'Module 01 - Identity'
 ---
 
-# Lab 01 - Manage Azure Active Directory Identities
+# Laboratorio 01: Administrar identidades de Azure Active Directory
 
 # Student lab manual
 
